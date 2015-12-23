@@ -10,7 +10,7 @@ github_username:  elijahaydn
 
 # Layout settings
 header_type: default  # values [ drawer, default ]
-post_type: highlight    # values [ highlight, default ]
+post_type: default    # values [ highlight, default ]
 pagination_type: default  # values [ ops, default ]
 
 more_vert:

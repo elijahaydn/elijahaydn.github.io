@@ -11,4 +11,3 @@ My name is Elijah and I am awesome! This is my super cool website that I use to 
 - Play soccer
 - Watch [funny videos](ttps://www.youtube.com/user/BYUTelevision)  
 
-<img src="/assets/Elijah_avatar.jpg" width="100px" height="100px" alt="Elijah avatar">
