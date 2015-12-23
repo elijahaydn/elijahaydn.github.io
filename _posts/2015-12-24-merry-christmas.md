@@ -8,7 +8,7 @@ image: /assets/merry.jpg
 author: Alex
 ---
 
-This is your awesome new website. Right now you can get here by going to [http://www.elijahaydn.github.io](http://www.elijahaydn.github.io) BUT as part of your present I will buy you a domain name so you can go to something like ElijahIsAwesome.com or Unicronceeks.com to get here.  
+This is your awesome new website. Right now you can get here by going to [www.elijahaydn.github.io](http://www.elijahaydn.github.io) BUT as part of your present I will buy you a domain name so you can go to something like ElijahIsAwesome.com or Unicronceeks.com to get here.  
 
 You can use this site to do all sorts of cool stuff like:  
 
