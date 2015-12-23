@@ -7,6 +7,7 @@ highlight: true
 image: /assets/merry.jpg
 author: Alex
 ---
+<img src="/assets/merry2.jpg" width="500" height="300" alt="Minecraft merry Christmas">
 
 This is your awesome new website. Right now you can get here by going to [www.elijahaydn.github.io](http://www.elijahaydn.github.io) BUT as part of your present I will buy you a domain name so you can go to something like ElijahIsAwesome.com or Unicronceeks.com to get here.  
 
