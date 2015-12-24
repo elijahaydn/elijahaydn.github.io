@@ -1,29 +1,7 @@
 # Site settings
-title: Elijah is awesome!
-email: elijah@elijahisawesome.com
-description: > # this means to ignore newlines until "baseurl:"
-  This is an awesome site for an awesome guy. Elijah is awesome! 
+title: Modern Blog
+description: Modern-Blog A Elegant template for Jekyll
+keywords: Modern, Blogging, Fun
+author: Wferr
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://elijahaydn.github.io/" # the base hostname & protocol for your site
-twitter_username: Unicronceeks
-github_username:  elijahaydn
-
-# Layout settings
-header_type: default  # values [ drawer, default ]
-post_type: highlight   # values [ highlight, default ]
-pagination_type: default  # values [ ops, default ]
-
-more_vert:
-  option1:
-    name: Minecraft
-    link: www.minecraft.net
-  option2:
-    name: Marimba
-    link: https://www.facebook.com/MushaMarimba/
-  option3:
-    name: Cat pictures
-    link: www.nyan.cat
-
-
-# Build settings
-markdown: kramdown
+url: "" # the base hostname & protocol for your site
