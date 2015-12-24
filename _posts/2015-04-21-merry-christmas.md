@@ -3,7 +3,7 @@ title:  "Merry Christmas!"
 subtitle: "We wish you a Merry Christmas"
 author: "Elijah"
 avatar: "img/authors/elijah.jpg"
-image: "img/b.jpg"
+image: "img/minecraftxmas.png"
 date:   2015-12-24 12:12:12
 ---
 
