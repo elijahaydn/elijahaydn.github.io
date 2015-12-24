@@ -7,7 +7,7 @@ image: "img/b.jpg"
 date:   2015-12-24 12:12:12
 ---
 
-<img src="/img/merry.jpg" width="500" height="300" alt="Minecraft merry Christmas">
+<img src="img/merry.jpg" width="500" height="300" alt="Minecraft merry Christmas">
 
 This is your awesome new website. Right now you can get here by going to [www.elijahaydn.github.io](http://elijahaydn.github.io) BUT as part of your present I will buy you a domain name so you can go to something like ElijahIsAwesome.com or Unicronceeks.com to get here.  
 
